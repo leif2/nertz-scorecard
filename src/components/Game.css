@@ -1,0 +1,8 @@
+.scorecard-row {
+	display: flex;
+}
+
+.scorecard-column {
+	flex: 1;
+	margin: 10px;
+}
